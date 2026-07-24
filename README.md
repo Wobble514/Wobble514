@@ -35,6 +35,11 @@ diagnostics (VIF), identification of a suppression effect, and full residual
 validation. Adjusted R² = 0.887.
 `R` · `Quarto` · `tidyverse`
 
+- ### gene-expression-viz &nbsp;![status](https://img.shields.io/badge/status-planned-lightgrey)
+Load a gene expression table (CSV) and visualise it. Reading tabular data with
+pandas and producing exploratory plots.
+`Python` · `pandas`
+
 ## Tech stack
 
 **Languages**: Python, R, Bash      
