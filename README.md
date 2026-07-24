@@ -49,9 +49,6 @@ validation. Adjusted R² = 0.887.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Wobble514&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wobble514&layout=compact&theme=tokyonight&hide_border=true)
 
 <sub> In tribute to Rosalind Franklin.</sub>
 
