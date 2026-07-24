@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/dna.svg" width="40">
+<img src="assets/DNA_symbolic_extending.svg" width="40">
   
 # Wobble514
 
