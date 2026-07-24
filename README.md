@@ -32,7 +32,7 @@ bacterial genomes from NCBI.
 Multiple linear regression explaining voter turnout across 17 electoral
 sectors from socioeconomic predictors. AICc model selection, collinearity
 diagnostics (VIF), identification of a suppression effect, and full residual
-validation. Adjusted R² = 0.887.
+validation.
 `R` · `Quarto` · `tidyverse`
 
 - ### gene-expression-viz &nbsp;![status](https://img.shields.io/badge/status-planned-lightgrey)
