@@ -1,5 +1,6 @@
 <div align="center">
-
+<img src="assets/dna.svg" width="40">
+  
 # Wobble514
 
 **Turning biological questions into reproducible code.**
