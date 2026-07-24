@@ -46,7 +46,7 @@ validation. Adjusted R² = 0.887.
 - Python for bioinformatics (practising on [Rosalind](https://rosalind.info))
 - Working through [Resources for Learning Bioinformatics and Computational Biology](https://learnbioinformatics.org/)
 
-## GitHub stats
+
 
 <div align="center">
 
