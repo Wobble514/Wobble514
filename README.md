@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/DNA_symbolic_extending.svg" width="90">
+<img src="assets/plasmid-l-insert-dna" width="90">
   
 # Wobble514
 
