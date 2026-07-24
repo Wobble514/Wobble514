@@ -22,13 +22,13 @@ reproducible results.
 
 ## Projects
 
-- ### [gc-content-fasta](https://github.com/Wobble514/gc-content-fasta)
+- ### [gc-content-fasta](https://github.com/Wobble514/gc-content-fasta) &nbsp;![status](https://img.shields.io/badge/status-complete-brightgreen)
 Command-line tool computing the GC content of every sequence in a FASTA file.
 Handles multi-line records, mixed case, and ambiguous bases; tested on real
 bacterial genomes from NCBI spanning 31.7% to 72.1% GC.
 `Python` · `no dependencies`
 
-- ### [paris-2026-turnout](https://github.com/Wobble514/paris-2026-turnout)
+- ### [paris-2026-turnout](https://github.com/Wobble514/paris-2026-turnout) &nbsp;![status](https://img.shields.io/badge/status-complete-brightgreen)
 Multiple linear regression explaining voter turnout across 17 electoral
 sectors from socioeconomic predictors. AICc model selection, collinearity
 diagnostics (VIF), identification of a suppression effect, and full residual
