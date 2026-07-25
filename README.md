@@ -48,8 +48,8 @@ pandas and producing exploratory plots.
 
 ## Currently learning
 
-- Python for bioinformatics (practising on [Rosalind](https://rosalind.info))
-- Working through [Resources for Learning Bioinformatics and Computational Biology](https://learnbioinformatics.org/)
+Python for bioinformatics (practising on [Rosalind](https://rosalind.info))
+Working through [Resources for Learning Bioinformatics and Computational Biology](https://learnbioinformatics.org/)
 
 
 
