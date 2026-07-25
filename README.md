@@ -43,7 +43,7 @@ pandas and producing exploratory plots.
 ## Tech stack
 
 **Languages**: Python, R, Bash      
-**Statistics**: linear models, model selection, regression diagnostics, non-parametric tests
+**Statistics**: linear models, model selection, regression diagnostics, non-parametric tests  
 **Tools**: Git, Linux, Quarto
 
 ## Currently learning
