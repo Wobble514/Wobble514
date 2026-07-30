@@ -44,6 +44,4 @@ With a passion for biology above all else, I am developing skills in bioinformat
 Python for bioinformatics (practising on [Rosalind](https://rosalind.info))  
 Working through [Resources for Learning Bioinformatics and Computational Biology](https://learnbioinformatics.org/)
 
-<div align="center">
-<sub>In tribute to Rosalind Franklin.</sub>
-</div>
+
