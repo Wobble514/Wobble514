@@ -28,7 +28,7 @@ With a passion for biology above all else, I am developing skills in bioinformat
   Multiple linear regression explaining voter turnout across 17 electoral sectors from socioeconomic predictors. AICc model selection, collinearity diagnostics (VIF), identification of a suppression effect, and full residual validation.
   `R` · `Quarto` · `tidyverse`
 
-- ### gene-expression-viz &nbsp;![status](https://img.shields.io/badge/status-planned-lightgrey)
+- ### [huntington-blood-expression](https://github.com/Wobble514/huntington-blood-expression) &nbsp;![status](https://img.shields.io/badge/status-complete-brightgreen)
 
   Load a gene expression table (CSV) and visualise it. Reading tabular data with pandas and producing exploratory plots.
   `Python` · `pandas`
