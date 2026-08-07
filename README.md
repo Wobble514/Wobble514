@@ -25,7 +25,7 @@ With a passion for biology above all else, I am developing skills in bioinformat
 
 - ### [paris-2026-turnout](https://github.com/Wobble514/paris-2026-turnout) &nbsp;![status](https://img.shields.io/badge/status-complete-brightgreen)
 
-  Multiple linear regression explaining voter turnout across 17 electoral sectors from socioeconomic predictors. AICc model selection, collinearity diagnostics (VIF), identification of a suppression effect, and full residual validation.
+  Multiple linear regression explaining voter turnout across 17 electoral sectors from socioeconomic predictors. AICc model selection, collinearity diagnostics (VIF), identification of a suppression effect, and full residual validation. This project is not related to biology but uses statistical analyses that are useful in that field. 
   `R` · `Quarto` · `tidyverse`
 
 - ### [huntington-blood-expression](https://github.com/Wobble514/huntington-blood-expression) &nbsp;![status](https://img.shields.io/badge/status-complete-brightgreen)
