@@ -31,7 +31,6 @@ With a passion for biology above all else, I am developing skills in bioinformat
 - ### [huntington-blood-expression](https://github.com/Wobble514/huntington-blood-expression) &nbsp;![status](https://img.shields.io/badge/status-complete-brightgreen)
 
   Full pipeline from a raw NCBI GEO microarray dataset (GSE8762) to biological interpretation: parsing, QC, PCA with confounder checks, hierarchical clustering, and probe-to-gene annotation. Blood expression variation turns out to be driven by sex, erythroid composition and immune activity — not disease status.
-
 `Python` · `pandas` · `scikit-learn` · `seaborn` · `matplotlib`
 
 ## Tech stack
